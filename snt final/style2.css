@@ -1,0 +1,84 @@
+
+ body{
+    background-color: white;
+ }
+
+ body {
+    margin: 0;
+}
+
+#rectangle{
+    width: 1500px;
+    height:75px;
+    background:lightblue;
+    
+}
+
+#rectangle2{
+    position: relative;
+    width: 200px;
+    height: 65px;
+    background-color: lightblue;
+    top: 320px;
+}
+
+#rectangle3{
+    position: relative;
+    width: 135px;
+    height: 50px;
+    background-color: white;
+    right: -10px;
+    top: -63px;
+}
+
+h3{
+    position: relative;
+    right: -15px;
+    top: -150px;
+    font-family:cursive;
+}
+
+img{ 
+    position: relative; 
+    right: -410px;
+    width: 600px;
+    top: -170px
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    position: relative;
+    top: -195px;
+    right: -30px;
+    
+    color: #000000
+}
+
+h2{
+    position: relative;
+    right: -550px;
+    top: -170px;
+    font-size: 220%;
+    font-family:cursive;
+}
+#cadeaux{
+    position: relative;
+    top: -307px;
+    right: -15px;
+    font-size: 25px;
+    font-family: arial;
+    font-weight: bold;
+}
+#voici{
+    position:relative;
+    right: -530px;
+    top: -190px;
+
+}
+#formulaire{
+    position: relative;
+    top: -150px;
+}
